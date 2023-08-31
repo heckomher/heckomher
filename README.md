@@ -59,6 +59,20 @@
 ### Now Learning
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://jwt.io" target="_blank" rel="noreferrer"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/> </a> </p>
 
-## Personal Skills 🛠️- Leadership 🏆- Teamwork 🤝- Creativity 🎨- Problem Solving 🧩- Adaptability 🌱- Responsibility 📋- Proactivity 🚀## My Stats 📈[![Héctor Komori github stats](https://github-readme-stats.vercel.app/api?username=heckomher&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## Personal Skills 🛠️
+- Leadership 🏆
+- Teamwork 🤝
+- Creativity 🎨
+- Problem Solving 🧩
+- Adaptability 🌱
+- Responsibility 📋
+- Proactivity 🚀
+
+## My Stats 📈
+
+[![Héctor Komori github stats](https://github-readme-stats.vercel.app/api?username=heckomher&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education 🎓
+
+- Full Stack Java Developer -- Awakelab by Adalid (2023)
+- Chemical Engineer -- Universidad de Santiago de Chile (2012)
