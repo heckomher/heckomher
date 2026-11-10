@@ -73,6 +73,6 @@
 [![Héctor Komori github stats](https://github-readme-stats.vercel.app/api?username=heckomher&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education 🎓
-
+- IT Engineering - Instituto Nacional de Capacitación (2027)
 - Full Stack Java Developer -- Awakelab by Adalid (2023)
 - Chemical Engineer -- Universidad de Santiago de Chile (2012)
