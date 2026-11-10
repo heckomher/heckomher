@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Héctor Komori</h1>
-<h3 align="center">A Full Stack Java and Python developer from Chile with ❤️</h3>
+<h3 align="center">A Full Stack Java and Python developer from Chile 🇨🇱</h3>
 
 - 🌱 I’m currently learning IT engineering at INACAP
 -  👨‍💻 All of my projects are available at [github.com/heckomher](github.com/heckomher)
